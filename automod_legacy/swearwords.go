@@ -4,7 +4,7 @@ package automod_legacy
 var BuiltinSwearWords = map[string]bool{
 	"anal":        true,
 	"anus":        true,
-	"arse":        true,
+	"arse":        false,
 	"ass":         true,
 	"b1tch":       true,
 	"ballsack":    true,
